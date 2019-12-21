@@ -1,0 +1,16 @@
+@import url('bootstrap.css');
+
+body {
+    padding-top: 50px;
+}
+
+.img-destaque{
+    width:auto;
+    height:200px;
+}
+
+/*.btn-primary1 > span {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}*/

@@ -1,0 +1,52 @@
+- Produtos
+	Pro_codigo
+	Pro_descricao
+	Pro_detalhes
+	Pro_pvenda
+	Pro_pvendatabela
+	Pro_imagens
+	Mar_codigo
+	Pro_destaque
+	Cat_codigo
+
+- Tamanhos
+	Tam_codigo
+	Pro_codigo
+	Tam_tamanho
+	Tam_quantidade
+
+- Marcas
+	Mar_codigo
+	Mar_descricao
+
+- Categorias
+	Cat_codigo
+	Cat_descricao
+	Cat_parent
+
+- Carrinho
+	Car_codigo
+	Car_statuspgto
+
+- ItensCarrinho
+	Ite_nritem
+	Car_codigo
+	Pro_codigo
+	Ite_quantidade
+	Ite_pvcompra
+	Tam_codigo
+
+- Pagamentos
+	Pag_nrpgamento
+	Car_codigo
+	Pag_forma
+
+- Clientes
+
+- Usuarios
+	Usu_codigo
+	Usu_nomecompleto
+	Usu_email
+	Usu_senha
+	Usu_observarcao
+l
